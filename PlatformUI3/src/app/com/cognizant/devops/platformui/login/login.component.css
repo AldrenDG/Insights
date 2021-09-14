@@ -28,15 +28,15 @@
 }
 
 .whiteBackground {
-	background-color: #f0f0f0;
+	background-color: #ffffff;
 }
 
 .whiteframeCss {
-	background-color: #f0f0f0;
+	background-color: #ffffff;
 	width: 100%;
 	height: 100%;
 }
-
+/*
 .blueStripCss {
 	background-color: #0033A0;
 	width: 72.1%;
@@ -55,7 +55,7 @@
 .greenStripDivCss {
 	margin-top: 0px;
 }
-
+*/
 .copyRightDivCss {
 	position: relative;
 	bottom: 50px;
@@ -291,16 +291,16 @@ md-icon {
 .table {
 	width: 100%;
     margin-bottom: 1rem;
-    color: #212529;
-    margin-top: 6rem;
+    /*color: #212529;
+    margin-top: 6rem;*/
 }
 
 .table td, .table th {
     padding: .75rem;
     vertical-align: top;
-    border-top: 2px solid #0033a0;
+    /*border-top: 2px solid #0033a0;
     padding-block-start: 5%;
-    border-bottom: 4px solid #00b140;
+    border-bottom: 4px solid #00b140;*/
 }
 
 	
@@ -308,7 +308,7 @@ md-icon {
 	position: absolute;
     height: 70%;
     width: 1px;
-    background-color: purple;
+    /*background-color: purple;*/
     right: 0;
     left: 25px;
     margin: auto;

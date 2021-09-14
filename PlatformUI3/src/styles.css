@@ -21,7 +21,10 @@
 @import "../node_modules/bootstrap/dist/css/bootstrap.css";
 body {
   font-family: Open Sans, Tahoma, San Serif, Helvitica;
-  background-color: #f0f0f0;
+  background-image: url("telusbg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #fff;
   margin: 0;
 }
 
